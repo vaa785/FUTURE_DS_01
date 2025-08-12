@@ -1,61 +1,70 @@
-# FUTURE_DS_01
-Key Insights
-Strong Regional Performance
+# Superstore Sales Dataset -Task 1 (Data science & Analytics Internship)
+## Overview 
+This project is part of my Data science & analytics internship at Future interns. 
+The goal of this task is to analyze e-commerce data to identify best-selling products, sales trends,
+and high-revenue categories using Power BI.
 
-West region leads in both sales and profit.
+# Dashboard Features
+. Total sales
 
-Central region underperforms in revenue and margin.
+. Total profit
 
-Product Leaders
+. Total transactions
 
-Canon ImageCLASS 2200 drives the highest sales volume (>50K units).
+. Total profit margin
 
-Product portfolio shows diversity but with a few dominant items.
+# Key Insights
+. Strong Regional Performance.
 
-Category Trends
+. West region leads in both sales and profit.
 
-Technology and Office Supplies show steady growth toward year-end.
+. Central region underperforms in revenue and margin.
 
-Furniture maintains stable but modest performance.
+## Product Leaders
+. Canon ImageCLASS 2200 drives the highest sales volume (>50K units).
 
-Seasonality
+. Product portfolio shows diversity but with a few dominant items.
 
-Sales consistently peak in Q4, aligning with holiday seasons and end-of-year purchases.
+## Category Trends
+. Technology and Office Supplies show steady growth toward year-end.
 
-Customer Concentration
+. Furniture maintains stable but modest performance.
 
-A small group of high-value customers (e.g., Sean Miller, Tamara Chand) contribute a significant portion of sales.
+## Seasonality
+. Sales consistently peak in Q4, aligning with holiday seasons and end-of-year purchases.
 
-Risk of over-reliance on top buyers.
+## Customer Concentration
+. A small group of high-value customers (e.g., Sean Miller, Tamara Chand) contribute a significant portion of sales.
 
-Recommendations
-Maximize Regional Strength
+. Risk of over-reliance on top buyers.
 
-Focus marketing in the West region.
+# Recommendations
+. Maximize Regional Strength.
 
-Strategize interventions in the Central region.
+. Focus marketing in the West region.
 
-Capitalize on Seasonal Peaks
+. Strategize interventions in the Central region.
 
-Boost Q4 inventory and promotions.
+. Capitalize on Seasonal Peaks.
 
-Run targeted category campaigns during peak months.
+. Boost Q4 inventory and promotions.
 
-Improve Profit Margins
+. Run targeted category campaigns during peak months.
 
-Audit low or negative-margin SKUs.
+. Improve Profit Margins.
 
-Introduce more profitable alternatives.
+. Audit low or negative-margin SKUs.
 
-Customer Relationship Management
+. Introduce more profitable alternatives.
 
-Reward loyalty of top customers.
+. Customer Relationship Management.
 
-Expand customer base to reduce dependency.
+. Reward loyalty of top customers.
 
-Category Growth
+. Expand customer base to reduce dependency.
 
-Promote cross-selling between Furniture & Technology.
+## Category Growth
+. Promote cross-selling between Furniture & Technology.
 
-Identify trending SKUs(stock keeping products) for early market entry.
+. Identify trending SKUs(stock keeping products) for early market entry.
 
