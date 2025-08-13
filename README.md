@@ -1,4 +1,7 @@
 # Superstore Sales Dataset -Task 1 (Data science & Analytics Internship)
+**~BY VANESSA .A**
+
+---
 ## Overview 
 This project is part of my Data science & analytics internship at Future interns. 
 The goal of this task is to analyze e-commerce data to identify best-selling products, sales trends,
@@ -13,7 +16,7 @@ and high-revenue categories using Power BI.
 
 . Total profit margin
 
-# Key Insights
+# 📈 Key Insights
 . Strong Regional Performance.
 
 . West region leads in both sales and profit.
@@ -68,3 +71,15 @@ and high-revenue categories using Power BI.
 
 . Identify trending SKUs(stock keeping products) for early market entry.
 
+---
+## 📅 Internship Info
+- **Internship Domain:** Data Science & Analytics  
+- **Organization:** Future Interns  
+- **Task Number:** 01   
+- **Goal:** To Build a complete sales analytics dashboard with actionable insights  
+  
+- **Name:** VANESSA. A
+- **Email:** anyakoravanessa99@gmail.com  
+- **LinkedIn:** http://linkedin.com/in/vanessa-anyakora-684197321 
+
+---
