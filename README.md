@@ -16,6 +16,8 @@ and high-revenue categories using Power BI.
 
 . Total profit margin
 
+---
+
 # 📈 Key Insights
 . Strong Regional Performance.
 
@@ -41,6 +43,8 @@ and high-revenue categories using Power BI.
 
 . Risk of over-reliance on top buyers.
 
+---
+
 # Recommendations
 . Maximize Regional Strength.
 
@@ -65,6 +69,8 @@ and high-revenue categories using Power BI.
 . Reward loyalty of top customers.
 
 . Expand customer base to reduce dependency.
+
+---
 
 ## Category Growth
 . Promote cross-selling between Furniture & Technology.
